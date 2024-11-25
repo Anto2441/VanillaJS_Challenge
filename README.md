@@ -7,3 +7,8 @@
 02 - Clock :
 
 ![Capture d’écran 2024-11-05 à 15 50 28](https://github.com/user-attachments/assets/1043a329-4298-4367-9ac2-3ec25947d989)
+
+
+03 - CSS Variables :
+
+![Capture d’écran 2024-11-25 à 18 23 49](https://github.com/user-attachments/assets/d10ad62d-53ff-4e35-90ec-88789b7dee91)
