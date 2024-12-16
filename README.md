@@ -12,3 +12,7 @@
 03 - CSS Variables :
 
 ![Capture d’écran 2024-11-25 à 18 23 49](https://github.com/user-attachments/assets/d10ad62d-53ff-4e35-90ec-88789b7dee91)
+
+05 - Panels :
+
+![Capture d’écran 2024-12-16 à 14 50 00](https://github.com/user-attachments/assets/b597bcba-a3fa-4e26-9433-fb07e1250254)
